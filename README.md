@@ -3,4 +3,4 @@ Tulsi Bhagat is a Nepalese Blogger, Wikimedian, Internet and Social Activist. He
 
 Apart from this, Bhagat is pursuing Bachelor of Business Studies (BBS) at Model Multiple College, Janakpur affiliated to Tribhuvan University.
 ## tulsibhagat.com.np
-This is Tulsi Bhagat's personal website.
+This is Tulsi Bhagat's personal website. It shows a Wordpress Theme, <a href="https://bizbergthemes.com/" target="_blank" rel="noopener">Bizberg Theme</a>. The credit goes to the theme developers. Earlier, powered by <a href="https://wordpress.com/" target="_blank" rel="noopener">WordPress</a>, but now hosted on GitHub. So, It is no more a WordPress site.
