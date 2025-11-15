@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Block the some pages
+Disallow: /disclaimer/
+Disallow: /category/blog/
+Disallow: /biodata/
+
+# Avoid crawling GitHub Pages system files
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /node_modules/
+Disallow: /vendor/
+Disallow: /README.md
+Disallow: /LICENSE
+
+# Sitemap
+Sitemap: https://tulsibhagat.com.np/sitemap.xml
